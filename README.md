@@ -3,4 +3,6 @@ A software implementation (in C language) to recover the the full LED state usin
 
 
 Run: gcc main.c encrypt.c cilipadi.c led.c
+
+
 ./a.out
